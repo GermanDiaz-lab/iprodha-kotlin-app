@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">App IPRODHA</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="employment_spinner_prompt">SELECCIONAR CATEGORIA LABORAL</string>
+    <string name="occupation_spinner_prompt">SELECCIONAR OCUPACION</string>
+    <string name="tarjeta_spinner_prompt">SELECCIONAR TIPO DE TARJETA</string>
+    <string name="alquiler_spinner_prompt">SELECCIONAR PLAN ALQUILER</string>
+    <string name="sit_spinner_prompt">SELECCIONAR SIT HAB.</string>
+    <string name="titulo_spinner_prompt">SELECCIONAR TITULO</string>
+    <string name="juridica_spinner_prompt">SELECCIONAR SIT. JURIDICA</string>
+    <string name="civiltitular_spinner_prompt">SELECCIONAR ESTADO CIVIL TITULAR</string>
+    <string name="civilconyuge_spinner_prompt">SELECCIONAR ESTADO CIVIL CONYUGE</string>
+    <array name="civil_options">
+        <item>SELECCIONAR</item>
+        <item>SOLTERO/A</item>
+        <item>CASADO/A</item>
+        <item>VIUDO/A</item>
+    </array>
+    <array name="juridica_options">
+        <item>SELECCIONAR</item>
+        <item>- Ejecucion Hipotecaria</item>
+        <item>- Ejecucion Fiscal</item>
+        <item>- Desalojo</item>
+        <item>- Hipotecario y Desalojo</item>
+    </array>
+    <array name="titulo_options">
+        <item>SELECCIONAR</item>
+        <item>- Con título</item>
+        <item>- Sin título</item>
+    </array>
+    <array name="sit_options">
+        <item>SELECCIONAR</item>
+        <item>NORMAL (N)</item>
+        <item>REVOCADO (L)</item>
+        <item>IRREGULAR (I)</item>
+        <item>CONTRATO VENCIDO (V)</item>
+    </array>
+    <array name="alquiler_options">
+        <item>SELECCIONAR</item>
+        <item>INGRESOS BAJOS</item>
+        <item>FUERZAS ARMADAS</item>
+        <item>EDAD</item>
+        <item>ANTECEDENTES</item>
+        <item>ESTADO CIVIL</item>
+        <item>SIN GARANTE</item>
+    </array>
+    <array name="tarjeta_options">
+        <item>SELECCIONAR</item>
+        <item>NARANJA</item>
+        <item>VISA</item>
+        <item>MASTERCARD</item>
+    </array>
+    <array name="employment_options">
+        <item>SELECCIONAR</item>
+        <item>AUTONOMO</item>
+        <item>MONOTRIBUTISTA</item>
+        <item>TRAB. REL. DEPENDENCIA</item>
+        <item>JUBILADO</item>
+        <item>PENSIONADO</item>
+        <item>ASIGNACION-NO-SUMA</item>
+        <item>DESOCUPADO</item>
+        <item>CUOTA ALIMENTARIA</item>
+        <item>MONOTRIBUTO SOCIAL</item>
+        <item>TRABAJADOR INFORMAL</item>
+    </array>
+    <array name="occupation_options">
+        <item>SELECCIONAR</item>
+        <item>EMPLEADO ADM. PUBLICA</item>
+        <item>EMPLEADO SECTOR PUBLICO</item>
+        <item>EMPRENDEDOR</item>
+        <item>PROFESIONAL INDEPENDIENTE</item>
+        <item>TRABAJADOR INFORMAL</item>
+        <item>JUBILADO</item>
+        <item>PENSIONADO Y PLAN SOCIAL</item>
+        <item>AMA DE CASA</item>
+        <item>DESOCUPADO</item>
+        <item>FUERZAS NACIONALES</item>
+        <item>FUERZAS PROVINCIALES</item>
+        <item>EMPL. PUBLICO NACIONAL</item>
+        <item>EMPLEADO PUBLICO PROV.</item>
+    </array>
+
+</resources>

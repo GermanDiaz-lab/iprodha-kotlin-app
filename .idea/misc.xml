@@ -1,0 +1,53 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3025" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.28" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.28" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.28" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3025" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/drawable/scrollview_bg.xml" value="0.28" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_borrar_convenios.xml" value="0.14145424153781863" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_borrar_obras.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_convenio.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_convenio_foto.xml" value="0.14709569577935647" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_encuesta.xml" value="0.25" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_firma.xml" value="0.25" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_goolge.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_imagen.xml" value="0.14709569577935647" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_imagen_convenio.xml" value="0.14145424153781863" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_main.xml" value="0.2810516772438803" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_sign_up.xml" value="0.40160642570281124" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_sing_in.xml" value="0.33" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_sociales_main.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/activity_user.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/item_foto.xml" value="0.21932449764856776" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/item_informe.xml" value="0.30012825994014536" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/item_obra.xml" value="0.33" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/item_obra_borrar.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/loading_item.xml" value="0.33" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/nav_header.xml" value="0.3596014492753623" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/layout/sample_drawing_view.xml" value="0.2894399315946986" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/menu/nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3025" />
+        <entry key="..\:/Users/German/AndroidStudioProjects/Test2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3025" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.025" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
