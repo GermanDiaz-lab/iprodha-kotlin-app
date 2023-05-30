@@ -108,7 +108,7 @@ class SocialesMainActivity : AppCompatActivity() {
         }
     }
 
-    private val CLIENT_ID = "a640e02866c8b62"
+    private val CLIENT_ID = "**************"
 
     private suspend fun uploadSignatureToImgur(informe: InformeModel) {
         val loading = LoadingDialog(this).apply { startLoading() }
