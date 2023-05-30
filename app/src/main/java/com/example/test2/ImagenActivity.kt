@@ -420,7 +420,7 @@ class ImagenActivity : AppCompatActivity() {
         navUserEmail.text = usrList[0].usuarioemail
     }
 
-    private val CLIENT_ID = "a640e02866c8b62"
+    private val CLIENT_ID = "****************"
 
     private suspend fun startUpload(uri: Uri, id: String) {
         val fotoList = sqliteHelper.getFoto(id)
